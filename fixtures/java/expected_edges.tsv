@@ -1,0 +1,5 @@
+from	to
+src/com/example/A.java	src/com/example/B.java
+src/com/example/A.java	src/com/example/util/Helper.java
+src/com/example/B.java	src/com/example/C.java
+src/com/example/C.java	src/com/example/A.java
