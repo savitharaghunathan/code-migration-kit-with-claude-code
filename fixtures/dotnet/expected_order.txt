@@ -1,0 +1,3 @@
+# migration order: one batch per line, dependencies first
+src/Example/Util/Helper.cs
+src/Example/A.cs	src/Example/Models/C.cs	src/Example/Services/B.cs

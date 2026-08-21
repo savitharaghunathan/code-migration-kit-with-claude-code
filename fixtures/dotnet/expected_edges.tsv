@@ -1,0 +1,5 @@
+from	to
+src/Example/A.cs	src/Example/Services/B.cs
+src/Example/A.cs	src/Example/Util/Helper.cs
+src/Example/Models/C.cs	src/Example/A.cs
+src/Example/Services/B.cs	src/Example/Models/C.cs
