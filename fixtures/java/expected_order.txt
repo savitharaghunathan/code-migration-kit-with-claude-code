@@ -1,0 +1,3 @@
+# migration order: one batch per line, dependencies first
+src/com/example/util/Helper.java
+src/com/example/A.java	src/com/example/B.java	src/com/example/C.java
